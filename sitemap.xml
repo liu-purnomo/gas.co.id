@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://gas.co.id/</loc>
+  <lastmod>2019-09-12T01:13:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/tentang.html</loc>
+  <lastmod>2019-09-09T03:38:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/kontak.html</loc>
+  <lastmod>2019-09-11T22:47:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/index.html</loc>
+  <lastmod>2019-09-12T01:13:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/pemetaan.html</loc>
+  <lastmod>2019-09-09T09:33:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/training.html</loc>
+  <lastmod>2019-09-11T00:15:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/pengadaan.html</loc>
+  <lastmod>2019-09-09T05:21:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://gas.co.id/training-3-5-oktober-2019.html</loc>
+  <lastmod>2019-09-11T23:58:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
